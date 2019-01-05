@@ -6,7 +6,7 @@
     Peter Huppertz -- peter@dnl-core.net 
 # THANKS
 
-    <name>
+    My course buddy
 
 # TECHNOLOGY COLOPHON
 
