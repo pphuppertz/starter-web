@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Peter Huppertz -- peter@dnl-core.net 
 # THANKS
 
     <name>
